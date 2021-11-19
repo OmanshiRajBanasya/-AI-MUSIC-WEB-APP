@@ -1,0 +1,14 @@
+body 
+{
+  background-size:cover;   
+}
+#BTN
+{
+  width: 130;
+  font-size: 25px;
+}
+canvas
+{
+  border: 5px solid white;
+  border-radius: 20px;
+}
